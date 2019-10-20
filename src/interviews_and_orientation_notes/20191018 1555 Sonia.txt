@@ -1,0 +1,98 @@
+Conversa Com professora Sônia
+
+18102019 1555
+
+Ensaios miniaturizados;
+
+micro identação instrumentada;
+> Eduardo Nicolosi;
+> Funcionário da Petrobrás;
+> Cinésio;
+> Repositório da UFSC;
+> Construiram equipamento;
+> Módulo de elasticidade;
+> Limite de escoamento
+> Limite de resistência
+
+Small punch test (simulação e ensaio), aluno de sonia fez;
+> Faz 'bolachinha' de 0.5mm de espessura, com 8mm de diametro, faz imbutimento disso;
+> Limite de escoamento e limite de resistência;
+> Como se fizesse estampagem;
+> 'disquinho com chapeu'
+> Estudo atual: tenacidade a fratura com mesmo método;
+
+Sculp
+> Máquina 
+> Tira um pedaço de material
+> Como se fosse uma colher
+> Ensaio em miniatura;
+> Material isotropico;
+
+Software
+> Atualmente no LTAD, Abacus;
+> Stampaq (espanha, pós doc sonia), empresa spinoff da universidade, vendida pra alemanha, não tem mais licença;
+> Small punch test abacus, fragilização por hidrogênio;
+> Stampaq:
+>> Deformação de chapa;
+>> Coeficiente de lankfort;
+>> R
+>> Coeficientes de anisotropia;
+>> Coeficiente de anistropia;
+>> Resistencia, Escoamento, Modulo, Poisson, usa tudo na direção de laminação;
+> Livro de conformação de chapas;
+> Conformação plástica de metais;
+> Coeficiente de anisotropia de chapa, coeficiente de lankfort, R (checar nomenclatura);
+> Swift = Luduiq-Nadai = Johnson-Cook 
+
+> Handbook of Metal Forming
+>> Kurt Lange
+>> 1985
+>> Handbook só melhora;
+>> ISBN 0-07-036285-8;
+>> Direções 0, 90 e 45 graus que aí não tem dúvida!
+
+Rs -> Anisotropia plástica;
+Rs -> Anisotropia elástica;
+
+Amigo: Mike Lander - Físico de LASER;
+Empresa: UTC, Ohio, Universal Technology Corporation, Daton Ohio
+Amigo Mike Lander
+>>
+
+---
+
+> VER TRABALHO DO NICOLOSI
+>> Haggag
+>> Maquina que faz, baixa resistencia da muito certo
+>> Propos modelo para materiais de maior resistencia
+>> Oliver Pharr, 1992
+
+Proposta de Nicolosi é melhor que do Haggag
+
+Dados do ensaio -> Cálculo -> Propriedades (resistencia, escoamento, modulo elasticidade, dureza)
+
+
+
+>>> Metodo de modulo de elasticidade por identação
+>>> Módulo de elasticidade do revestimento
+>>>> Aloisio Klein
+>>>>> Microidentação Instrumentada
+>>>>>>> USP
+>>>>>>> LabMat
+>>>>>>> 
+
+
+Artur Fioqi, Márcio Baccio?
+
+
+EMBRAPII
+
+LTAD
+Cinésio 
+> Petrobras
+
+Loriel
+
+
+
+
